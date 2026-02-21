@@ -30,7 +30,7 @@ There is also a cloud + GitHub integration of draw.io, but I am not testing it.
 
 <table>
   <tr>
-    <td><img src="./readme_assets/ros2_threat_model_from_thrat_dragon.png" width="300"/></td>
+    <td><img src="./readme_assets/ros2_threat_model_from_threat_dragon.png" width="300"/></td>
     <td><img src="./readme_assets/replicated_ros2_threat_model_from_drawio.png" width="300"/></td>
   </tr>
   <tr>
